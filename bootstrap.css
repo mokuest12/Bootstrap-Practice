@@ -1,0 +1,26 @@
+*{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.top-padding{
+    padding-top: 30px;
+    padding-bottom: 20px;
+}
+
+.jumbotron-fluid h1{
+    color:rgb(216, 132, 21);
+    font-family: 'Times New Roman', Times, serif;
+    line-height:1;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.bg-light {
+    background-color: rgb(240, 197, 204) !important;
+}
+
+p{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-size: 22px;
+}
